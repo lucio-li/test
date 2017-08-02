@@ -33,4 +33,9 @@ public class AppTest extends TestCase{
         App app = new App();
         app.max(5, 4);
     }
+    public void testApp2() {
+        assertTrue( true );
+        App2 app2 = new App2();
+        app2.max(5, 4);
+    }
 }

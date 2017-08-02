@@ -14,6 +14,15 @@ public class App {
 		}
 		return 1;
 	}
+	public  int min(int a, int b) {
+		
+		if (a > b) {
+			System.out.println(b);
+		} else {
+			System.out.println(a);
+		}
+		return 1;
+	}
     public static void main( String[] args ) {
         System.out.println( "Hello World!" );
     }

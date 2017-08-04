@@ -14,6 +14,7 @@ public class App {
 		}
 		return 1;
 	}
+	
 	public  int min(int a, int b) {
 		
 		if (a > b) {

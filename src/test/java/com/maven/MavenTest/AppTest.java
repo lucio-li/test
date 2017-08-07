@@ -51,18 +51,18 @@ public class AppTest extends TestCase{
 	        app2.min(4, 5);
 	        app2.max(5, 4);
 	    }
-//    public void testApp5() {
-//        assertTrue( true );
-//        App2 app2 = new App2();
-//        app2.max(5, 4);
-//        app2.max(4, 5);
-//        app2.min(4, 5);
-//        app2.min(5, 4);
-//        App app = new App();
-//        app2.max(5, 4);
-//        app2.max(4, 5);
-//        app2.min(4, 5);
-//        app2.min(5, 4);
-//        
-//    }
+    public void testApp5() {
+        assertTrue( true );
+        App2 app2 = new App2();
+        app2.max(5, 4);
+        app2.max(4, 5);
+        app2.min(4, 5);
+        app2.min(5, 4);
+        App app = new App();
+        app2.max(5, 4);
+        app2.max(4, 5);
+        app2.min(4, 5);
+        app2.min(5, 4);
+        
+    }
 }

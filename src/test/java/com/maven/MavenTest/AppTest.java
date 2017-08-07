@@ -43,11 +43,11 @@ public class AppTest extends TestCase{
 //        App2 app2 = new App2();
 //        app2.max(5, 4);
 //    }
-//    public void testApp4() {
-//        assertTrue( true );
-//        App2 app2 = new App2();
-//        app2.max(5, 4);
-//    }
+	    public void testApp4() {
+	        assertTrue( true );
+	        App2 app2 = new App2();
+	        app2.max(5, 4);
+	    }
 //    public void testApp5() {
 //        assertTrue( true );
 //        App2 app2 = new App2();
